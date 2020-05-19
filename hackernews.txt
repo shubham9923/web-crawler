@@ -1,0 +1,60 @@
+How Distortion Works in Music
+https://benmosheron.gitlab.io/blog/2020/04/26/distortion.html
+Linux Productivity Tools (2019) [pdf]
+https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf
+The unreasonable effectiveness of declarative programming
+https://bollu.github.io/mathemagic/declarative/index.html
+Reverse engineering the OP-1 drum patch
+https://schollz.com/blog/op1/
+Spleeter – Music Source-Separation Engine
+https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e
+WorldBrain's Memex: Bookmarking for the power users of the web
+https://getmemex.com/
+I trick my well-developed procrastination skills
+https://wolfgang.gassler.org/trick-my-procrastination-skills
+Show HN: Planning poker online – estimate tasks without influencing others
+https://planningpokeronline.com/
+Hardware Isn't Generally Copyrightable (2012)
+https://web.archive.org/web/20120114234704/http://wiki.openhardware.org/Hardware_Isn%27t_Generally_Copyrightable
+Blind people ‘read’ letters that are traced on their brains with electricity
+https://www.nature.com/articles/d41586-020-01421-6
+Technology that changed air travel
+https://retool.com/blog/air-travel-software/
+Uber cuts 3000 more jobs, closes 45 offices
+https://www.wsj.com/articles/uber-cuts-3-000-more-jobs-shuts-45-offices-in-coronavirus-crunch-11589814608
+Deconfinement: The Price of Human Life
+https://mondaynote.com/deconfinement-the-price-of-human-life-ebeae82edafd
+Show HN: Get help on any Linux command by typing 'howdoi –' in your terminal
+https://github.com/san-kumar/howdoi
+Iosevka, Version 3.0.0
+https://github.com/be5invis/Iosevka/releases
+Peer-to-peer canvas app for Urbit
+https://github.com/yosoyubik/canvas
+Revisiting the postcard pathtracer with CUDA and Optix
+https://fabiensanglard.net/revisiting_the_pathtracer/index.html
+“Become Abnormal”: traits to cultivate for top performance
+https://capitalandgrowth.org/answers/Article/3217401/This-One-Trait-Got-10-National-Championships-for-Coach-John-Wooden
+Tiny Websites Are Great
+https://tinyprojects.dev/posts/tiny_websites_are_great
+Poireau: A Sampling Allocation Debugger
+https://github.com/backtrace-labs/poireau
+Ask HN: Production Lisp in 2020?
+item?id=23231701
+Mediasoup – WebRTC video conferencing
+https://github.com/versatica/mediasoup
+Power Tool Manufacturers and Who Owns Them
+https://www.protoolreviews.com/news/power-tool-manufacturers-who-owns-them/43632/
+Google bans Podcast Addict app over non-approved Covid-19 content
+https://reclaimthenet.org/google-play-suspends-podcast-addict/
+Speed improvements using hash tables
+https://blog.asrpo.com/hashtables
+The UK’s public health response to Covid-19
+https://www.bmj.com/content/369/bmj.m1932
+The effects on cognition of sleeping 4 hours per night for 12-14 days
+https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/
+New.css – A classless CSS framework to write modern websites using only HTML
+https://newcss.net/
+Grafana 7.0
+https://grafana.com/blog/2020/05/18/grafana-v7.0-released-new-plugin-architecture-visualizations-transformations-native-trace-support-and-more/?isource=hp
+Woman who designed Florida's Covid-19 dashboard removed from her position
+https://cbs12.com/news/local/woman-who-designed-floridas-covid-19-dashboard-has-been-removed-from-her-position
